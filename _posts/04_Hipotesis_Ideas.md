@@ -1,3 +1,14 @@
+---
+title: "NLP Juzgado 10"
+date: 2020-08
+tags: [NLP, EDA]
+header:
+  image: "/images/perceptron/percept.jpg"
+excerpt: "NLP Juzgado 10"
+mathjax: "true"
+---
+
+
 ### Hipotesis e ideas
 
 
