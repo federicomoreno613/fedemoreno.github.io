@@ -1,13 +1,12 @@
 ---
-title: "NLP Juzgado 10"
-date: 2020-08
-tags: [NLP, EDA]
+title: "NLP Juz"
+date: 2020-08-10
+tags: [Juzgado, NLP]
 header:
-  image: "/images/perceptron/percept.jpg"
-excerpt: "NLP Juzgado 10"
+  image: ""
+excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
-
 
 ### Hipotesis e ideas
 
