@@ -1,9 +1,9 @@
 ---
-title: "NLP Juz"
-date: 2020-08-10
-tags: [Juzgado, NLP]
+title: "NLP"
+date: 2020-01-28
+tags: [data wrangling, data science, messy data]
 header:
-  image: ""
+  image: 
 excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
