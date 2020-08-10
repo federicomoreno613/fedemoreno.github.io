@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "es-AR"
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/federicomoreno613/"
+  github           : "federicomoreno613"
   gitlab           :
   google_plus      :
   keybase          :
@@ -106,7 +106,7 @@ author:
   linkedin         : "https://www.linkedin.com/in/federico-moreno-32955316/" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  stackoverflow    : "14077762/federico-moreno" 
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
   twitter          :
