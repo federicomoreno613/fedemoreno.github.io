@@ -4,7 +4,6 @@ permalink: /about/
 header:
   image: "/images/zakim.jpg"
 ---
-
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
-
-Etc, etc, etc
+I specialize in Machine Learning implementations, principally oriented to develop business solutions for being applied to different Company processes.
+*GIT, Docker, Django
+*R, Python & SQL
